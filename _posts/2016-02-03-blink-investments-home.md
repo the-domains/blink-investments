@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: Welcome to our website
-datePublished: '2016-02-03T01:26:13.864Z'
-dateModified: '2016-02-03T01:25:40.087Z'
+datePublished: '2016-02-03T01:41:35.893Z'
+dateModified: '2016-02-03T01:41:29.780Z'
 title: Blink Investments Home
 author: []
+sourcePath: _posts/2016-02-03-blink-investments-home.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-03-blink-investments-home.md
-published: true
 url: blink-investments-home/index.html
 _type: Article
 
